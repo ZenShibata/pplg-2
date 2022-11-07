@@ -9,3 +9,6 @@
 [![GitHub](https://img.shields.io/github/license/ZenShibata/pplg-2)](https://github.com/ZenShibata/pplg-2/blob/main/LICENSE)
 
 </div>
+
+# Start Exploring
+> You can start view all archives by opening [this](https://github.com/ZenShibata/pplg-2/tree/main/archives) folder
